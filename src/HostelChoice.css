@@ -1,0 +1,29 @@
+.hostelChoice {
+	display: grid;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.hostelChoice__option-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap: 15px;
+}
+
+.hostelChoice__option {
+	width: max-content;
+	padding: 20px;
+	font-weight: 900;
+	color: whitesmoke;
+	background-color: gray;
+	font-size: 25px;
+	border-radius: 15px;
+	margin: 15px;
+}
+
+.hostelChoice__option:hover {
+	color: gray;
+	background-color: whitesmoke;
+	border: 0.5px solid gray;
+}

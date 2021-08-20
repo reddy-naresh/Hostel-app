@@ -1,0 +1,37 @@
+.sex {
+	display: grid;
+	justify-content: center;
+	text-align: center;
+}
+.sex__option-container {
+	display: flex;
+}
+
+.sex__option {
+	margin: 10px;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-left: 100px;
+	padding-right: 100px;
+	border-radius: 30px;
+	margin: 50px;
+}
+
+.sex__option:hover {
+	border: 4px solid black;
+}
+
+.sex__option img {
+	border-radius: 50%;
+}
+
+.girls {
+	background-color: rgb(235, 189, 210);
+}
+
+.boys {
+	background-color: powderblue;
+}
