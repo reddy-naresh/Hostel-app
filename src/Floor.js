@@ -52,9 +52,7 @@ function Floor({name}) {
                     <h3>Room No. <span>{localStorage.getItem(`${name}roomNo`)}</span>  </h3>
                 </div>
 
-                <div className="closeButton" onClick={()=>{
-                    localStorage.removeItem(`${name}modalClass`);
-                }}>X</div>
+                <div className="closeButton">X</div>
             </div>
         </div>
     )
