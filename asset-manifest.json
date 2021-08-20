@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Hostel-app/static/css/main.f4878b07.chunk.css",
+    "main.js": "/Hostel-app/static/js/main.ff2adc0f.chunk.js",
+    "main.js.map": "/Hostel-app/static/js/main.ff2adc0f.chunk.js.map",
+    "runtime-main.js": "/Hostel-app/static/js/runtime-main.4b115ff1.js",
+    "runtime-main.js.map": "/Hostel-app/static/js/runtime-main.4b115ff1.js.map",
+    "static/js/2.dfdf4f7a.chunk.js": "/Hostel-app/static/js/2.dfdf4f7a.chunk.js",
+    "static/js/2.dfdf4f7a.chunk.js.map": "/Hostel-app/static/js/2.dfdf4f7a.chunk.js.map",
+    "index.html": "/Hostel-app/index.html",
+    "static/css/main.f4878b07.chunk.css.map": "/Hostel-app/static/css/main.f4878b07.chunk.css.map",
+    "static/js/2.dfdf4f7a.chunk.js.LICENSE.txt": "/Hostel-app/static/js/2.dfdf4f7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b115ff1.js",
+    "static/js/2.dfdf4f7a.chunk.js",
+    "static/css/main.f4878b07.chunk.css",
+    "static/js/main.ff2adc0f.chunk.js"
+  ]
+}
